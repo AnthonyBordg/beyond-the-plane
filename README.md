@@ -35,3 +35,15 @@ To verify the proofs locally, follow these steps:
 
 ## License
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for the full license text.
+
+## Citation
+@software{bordg_2026_19238761,    
+  author       = {Bordg, Anthony and Jafarrahmani, Farzad},    
+  title        = {Beyond the Plane: AlphaGeometry Re-architected},  
+  month        = mar,      
+  year         = 2026,    
+  publisher    = {Zenodo},    
+  version      = {v1.0.0},    
+  doi          = {10.5281/zenodo.19238761},    
+  url          = {https://doi.org/10.5281/zenodo.19238761},      
+}
