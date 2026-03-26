@@ -25,11 +25,11 @@ To verify the proofs locally, follow these steps:
 ## Credits
 
 * **Project Lead & Scientific Direction**: 
-    **Anthony Bordg** (team lead): PI responsible for the original ideation, conceptualization, and AlphaGeometry-specific domain expertise.
+    * **Anthony Bordg** (team lead): PI responsible for the original ideation, conceptualization, and AlphaGeometry-specific domain expertise.
 
 * **Formalization & Support Team**:  
     * **Farzad Jafarrahmani** (research engineer): core formalization.
-    * **Nathan Corbyn** (PhD student) & Pablo Donato (postdoc): inputs on dependent types for signatures.
+    * **Nathan Corbyn** (PhD student) & **Pablo Donato** (postdoc): inputs on dependent types for signatures.
     * **Elsa Lubek** (intern): code review.
     * **mathlib**: This project relies extensively on mathlib4. In particular, the `CategoryTheory` library—developed by Kim Morrison and others—was foundational to the formalization of `Semantics.lean`. 
 
