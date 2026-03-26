@@ -1,0 +1,11 @@
+name = "beyond_the_plane"
+version = "0.1.0"
+defaultTargets = ["beyond_the_plane"]
+
+[[lean_lib]]
+name = "BeyondThePlane"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.27.0-rc1"
