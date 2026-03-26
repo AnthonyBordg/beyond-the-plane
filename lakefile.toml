@@ -1,6 +1,6 @@
 name = "beyond_the_plane"
 version = "0.1.0"
-defaultTargets = ["beyond_the_plane"]
+defaultTargets = ["BeyondThePlane"]
 
 [[lean_lib]]
 name = "BeyondThePlane"
