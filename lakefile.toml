@@ -4,7 +4,6 @@ defaultTargets = ["BeyondThePlane"]
 
 [[lean_lib]]
 name = "BeyondThePlane"
-srcDir = "BeyondThePlane"
 
 [[require]]
 name = "mathlib"
